@@ -1,0 +1,11 @@
+package com.mrprk;
+public class Test4 {
+    public static void main(String[] args) {
+        
+    int id[]={13,24,75,21,32,35,45};
+    for(int idd:id){
+            System.out.println(idd);
+            
+    }
+    }
+}
